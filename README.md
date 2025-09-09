@@ -55,7 +55,7 @@ A simple calculator made using JS/CSS/HTML that uses eval()
 ## 📸 Screenshots
 
 ---
-![Home Page](./screenshots/pic.png)
+![Home Page](./pic.png)
 
 ---
 
